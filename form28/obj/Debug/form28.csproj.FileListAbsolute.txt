@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\bin\Debug\form28.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\bin\Debug\form28.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\bin\Debug\form28.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form28\form28\obj\Debug\form28.pdb
